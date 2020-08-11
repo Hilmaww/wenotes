@@ -10,7 +10,7 @@
 
 <script type="text/javascript">
 
-    exports : default{
+    export default{
         name= 'listNotes',
         data : function(){
             return{
