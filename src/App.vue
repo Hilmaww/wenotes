@@ -12,6 +12,8 @@
           <button @click="newNotes" class="bg-success btn btn-new-note">
             + Note Baru
           </button>
+
+          <ListNotes />
       </div>
       <!-- LIST -->
     </div>
